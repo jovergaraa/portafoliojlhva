@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio-master/static/css/main.6cf46d18.css",
+    "main.js": "/Portfolio-master/static/js/main.11ec6af1.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio-master/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio-master/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/Portfolio-master/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/Portfolio-master/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/Portfolio-master/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/cv-josevergara1.pdf": "/Portfolio-master/static/media/cv-josevergara1.7353c4a57f066df0e0d2.pdf",
+    "static/media/codeEditor.png": "/Portfolio-master/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/Portfolio-master/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/Portfolio-master/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Portfolio-master/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/Portfolio-master/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/Portfolio-master/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Portfolio-master/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "index.html": "/Portfolio-master/index.html",
+    "static/media/pre.svg": "/Portfolio-master/static/media/pre.d4812f51c8c80976eaab.svg",
+    "main.6cf46d18.css.map": "/Portfolio-master/static/css/main.6cf46d18.css.map",
+    "main.11ec6af1.js.map": "/Portfolio-master/static/js/main.11ec6af1.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio-master/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio-master/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cf46d18.css",
+    "static/js/main.11ec6af1.js"
+  ]
+}
