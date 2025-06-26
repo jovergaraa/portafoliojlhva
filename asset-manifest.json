@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portafoliojlhva/static/css/main.a1fcd12b.css",
-    "main.js": "/portafoliojlhva/static/js/main.5402bce9.js",
+    "main.js": "/portafoliojlhva/static/js/main.6c00deb5.js",
     "static/js/415.4d6acbeb.chunk.js": "/portafoliojlhva/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/portafoliojlhva/static/js/787.1ed0c42c.chunk.js",
     "static/media/leaf.png": "/portafoliojlhva/static/media/leaf.ff2616f664c8c0ceab91.png",
@@ -18,12 +18,12 @@
     "index.html": "/portafoliojlhva/index.html",
     "static/media/pre.svg": "/portafoliojlhva/static/media/pre.d4812f51c8c80976eaab.svg",
     "main.a1fcd12b.css.map": "/portafoliojlhva/static/css/main.a1fcd12b.css.map",
-    "main.5402bce9.js.map": "/portafoliojlhva/static/js/main.5402bce9.js.map",
+    "main.6c00deb5.js.map": "/portafoliojlhva/static/js/main.6c00deb5.js.map",
     "415.4d6acbeb.chunk.js.map": "/portafoliojlhva/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/portafoliojlhva/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a1fcd12b.css",
-    "static/js/main.5402bce9.js"
+    "static/js/main.6c00deb5.js"
   ]
 }
