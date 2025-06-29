@@ -16,7 +16,7 @@ function AboutCard() {
             Recientemente he terminado mi carrera de Ingenieria en Informatica en Duoc UC
             <br />
             <br />
-            Aparte de la programacion y la tecnologia estos son los hobbies que me gustan:
+            Aparte del desarrollo y la tecnologia estos son algunos de mis hobbies:
           </p>
           <ul>
             <li className="about-activity">

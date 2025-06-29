@@ -45,7 +45,7 @@ function Home2() {
       
               <br />
               <br />
-              Actualemente estoy en busca de un primer trabajo como desarrollador, para poder demostrar mis habilidades y seguir creciendo tanto profesionalmente como personalmente.
+              Actualmente estoy en busca de un primer trabajo como desarrollador, para poder demostrar mis habilidades y seguir creciendo tanto profesionalmente como personalmente.
   
             </p>
           </Col>

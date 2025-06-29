@@ -35,19 +35,18 @@ function Projects() {
               isBlog={false}
               title="Muebles Gerardo"
               description="El proyecto consiste en desarrollar un sitio web para una empresa ficticia de muebles establecida desde hace varios años. La solución propuesta es la creación de un sitio web que permita a la empresa mostrar su catálogo de muebles, ofrecer la posibilidad de compras en línea, gestionar pedidos personalizados y ofrecer servicios de reparación. "
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              ghLink="https://github.com/jovergaraa/muebles_Gerardo"
+             
             />
           </Col>
-
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={editor}
               isBlog={false}
               title="Music Pro"
               description="Proyecto que se centra en el desarrollo de una plataforma informática de gestión de productos para Una empresa de Instrumentos musicales, que permita a sus clientes acceder a una amplia selección de instrumentos y accesorios musicales, a fin de realizar compras de manera fácil y eficiente. "
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              ghLink="https://github.com/Nyafiu/Integracion_MusicPro"
+                       
             />
           </Col>
         </Row>
