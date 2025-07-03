@@ -6,6 +6,7 @@ import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
+import { ImPointRight } from "react-icons/im";
 
 function About() {
   return (
@@ -35,7 +36,7 @@ function About() {
           </Col>
         </Row>
         <h1 className="project-heading">
-          Cuento con experiencia en
+          He trabajado con las siguientes tecnologías:
         </h1>
 
         <Techstack />

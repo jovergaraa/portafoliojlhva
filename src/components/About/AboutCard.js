@@ -15,18 +15,22 @@ function AboutCard() {
             <br />
             Recientemente he terminado mi carrera de Ingenieria en Informatica en Duoc UC
             <br />
+    
             <br />
-            Aparte del desarrollo y la tecnologia estos son algunos de mis hobbies:
+            Mis Puntos Fuertes son:
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> PowerLifting
+              <ImPointRight /> Desarrollo Web
             </li>
             <li className="about-activity">
-              <ImPointRight /> Jugar videojuegos
+              <ImPointRight /> Metodologias Agiles
             </li>
             <li className="about-activity">
-              <ImPointRight /> Descubrir nueva musica
+              <ImPointRight /> Diseño de interfaces
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Habilidades Blandas
             </li>
           </ul>
         </blockquote>

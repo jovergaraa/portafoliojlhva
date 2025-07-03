@@ -26,8 +26,10 @@ import {
   SiExpress,
   SiBootstrap,
   SiIonic,
+  SiScrumalliance,
 } from "react-icons/si";
 import { TbBrandGolang } from "react-icons/tb";
+import { FaPaintBrush } from "react-icons/fa";
 
 function Techstack() {
   return (
@@ -76,9 +78,6 @@ function Techstack() {
           <SiBootstrap title="Bootstrap" />
         </Col>
         <Col xs={4} md={2} className="tech-icons tooltip-container">
-          <SiIonic title="Ionic" />
-        </Col>
-        <Col xs={4} md={2} className="tech-icons tooltip-container">
           <SiDjango title="Django" />
         </Col>
         <Col xs={4} md={2} className="tech-icons tooltip-container">
@@ -125,6 +124,21 @@ function Techstack() {
         </Col>
         <Col xs={4} md={2} className="tech-icons tooltip-container">
           <SiFigma title="Figma" />
+        </Col>
+        <Col xs={4} md={2} className="tech-icons tooltip-container">
+          <FaPaintBrush title="Canvas" />
+        </Col>
+      </Row>
+
+      {/* Metodologías Ágiles */}
+      <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
+        <Col md={12}>
+          <h3 style={{ textAlign: "center", color: "white", marginBottom: "40px" }}>
+            <span className="purple">Metodologías Ágiles</span>
+          </h3>
+        </Col>
+        <Col xs={4} md={2} className="tech-icons tooltip-container">
+          <SiScrumalliance title="Metodología Scrum" />
         </Col>
       </Row>
     </div>
