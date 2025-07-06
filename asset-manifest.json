@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/portafoliojlhva/static/css/main.a1fcd12b.css",
-    "main.js": "/portafoliojlhva/static/js/main.3537f14d.js",
+    "main.js": "/portafoliojlhva/static/js/main.b7732d6e.js",
     "static/js/415.4d6acbeb.chunk.js": "/portafoliojlhva/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/portafoliojlhva/static/js/787.1ed0c42c.chunk.js",
     "static/media/leaf.png": "/portafoliojlhva/static/media/leaf.ff2616f664c8c0ceab91.png",
     "static/media/emotion.png": "/portafoliojlhva/static/media/emotion.eabfc16e7a146ab15778.png",
     "static/media/suicide.png": "/portafoliojlhva/static/media/suicide.9c86cd7138a398c45fa5.png",
-    "static/media/cv-josevergara1.pdf": "/portafoliojlhva/static/media/cv-josevergara1.7353c4a57f066df0e0d2.pdf",
+    "static/media/cv-josevergara1 final.pdf": "/portafoliojlhva/static/media/cv-josevergara1 final.1da9ca848a31618bcc2e.pdf",
     "static/media/codeEditor.png": "/portafoliojlhva/static/media/codeEditor.1b585492490c8c1cace9.png",
     "static/media/blog.png": "/portafoliojlhva/static/media/blog.fb8ab7f271a937d5fc01.png",
     "static/media/home-main.svg": "/portafoliojlhva/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
@@ -18,12 +18,12 @@
     "index.html": "/portafoliojlhva/index.html",
     "static/media/pre.svg": "/portafoliojlhva/static/media/pre.d4812f51c8c80976eaab.svg",
     "main.a1fcd12b.css.map": "/portafoliojlhva/static/css/main.a1fcd12b.css.map",
-    "main.3537f14d.js.map": "/portafoliojlhva/static/js/main.3537f14d.js.map",
+    "main.b7732d6e.js.map": "/portafoliojlhva/static/js/main.b7732d6e.js.map",
     "415.4d6acbeb.chunk.js.map": "/portafoliojlhva/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/portafoliojlhva/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a1fcd12b.css",
-    "static/js/main.3537f14d.js"
+    "static/js/main.b7732d6e.js"
   ]
 }
